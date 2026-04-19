@@ -41,3 +41,9 @@ This project was presented at AIRO — the Artificial Intelligence and Robotics 
 
 ![image](https://github.com/user-attachments/assets/3cb9b7b0-ea09-4b22-97a7-b23db03419d1)
 
+## Collaborators
+|Name                     |Github Username                                            |
+|-------------------------|-----------------------------------------------------------|
+|Rastin Maleki            |[Rastin-py](https://github.com/rastin-py)                 |
+|MohammadHossein Mahmoodi |[Mohammadh-Mahmoudi](https://github.com/Mohammadh-Mahmoudi)|
+
